@@ -50,7 +50,7 @@ export default function About() {
 
       <div className='relative aspect-square col-span-2'>
         <Image
-          src='/about-2.jpg'
+          src={image2}
           fill
           className='object-cover'
           alt='Family that manages The Wild Oasis'
